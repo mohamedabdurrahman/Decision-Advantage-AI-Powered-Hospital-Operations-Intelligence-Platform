@@ -14,6 +14,6 @@ Tech: Python, FastAPI, Pydantic, OpenAI (GPT + Codex), React/TypeScript, Render,
 
 Why it matters: reducing decision latency is one of the highest-leverage levers in hospital operations. This is a working demonstration of responsible, human-in-the-loop AI addressing it — end-to-end, from architecture through governance to a deployed, usable interface.
 
-Built solo during OpenAI Build Week. 
+Built solo during OpenAI Build Week. https://devpost.com/software/decision-advantage-ipci-operations-intelligence-co-pilot
 
 Platform: https://operah-care.lovable.app
